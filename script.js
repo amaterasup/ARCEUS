@@ -1,5 +1,5 @@
 // ===== Ganti tanggal & jam LKMM di sini (waktu WIB) =====
-const hariH = new Date("Sep 22, 2026 12:00:00");
+const hariH = new Date("Sep 25, 2026 12:00:00");
 // Tambahkan ?open di akhir URL (index.html?open) untuk melewati hitung mundur saat mengedit.
 
 const hitung_mundur = document.querySelector(".hitung-mundur");
